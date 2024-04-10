@@ -37,7 +37,7 @@ nav,
 nav {
     justify-content: space-around;
     align-items: center;
-    height: 15vh;
+    height: 17vh;
 
 }
 
@@ -164,7 +164,7 @@ section {
 
 
 
-.section{
+.section-container{
     display: flex;
 }
 
@@ -243,7 +243,7 @@ section {
 
 .btn-color-1, 
 .btn-color-2 { 
-    border: rgb(53, 53, 53) 0.1rem solid;-
+    border: rgb(53, 53, 53) 0.1rem solid;
 
 }
 
