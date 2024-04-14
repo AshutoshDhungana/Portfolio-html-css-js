@@ -1,10 +1,6 @@
-function togglemenu() {
-    const menu = document.querySelector(".menu_links");
-    const icon = document.querySelector(".hamburger_icon");
-    menu.classList.toggle("open")
-    icon.classList.toggle("open")
-
-
-
-
+function toggleMenu() {
+  const menu = document.querySelector(".menu-links");
+  const icon = document.querySelector(".hamburger-icon");
+  menu.classList.toggle("open");
+  icon.classList.toggle("open");
 }
